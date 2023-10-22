@@ -6,7 +6,8 @@
 
 body{
     display: flex;
-    background-image: url('bg-g.jpg');
+    background-image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2Fjungle-background&psig=AOvVaw3ghDzV9lfR8dHctU6rby04&ust=1698049186908000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjpgaeciYIDFQAAAAAdAAAAABAE;
+    /* background-image: url('bg-g.jpg'); */
     text-align: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
